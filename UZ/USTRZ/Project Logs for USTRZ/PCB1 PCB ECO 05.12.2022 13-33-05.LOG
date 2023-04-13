@@ -1,0 +1,9 @@
+Added Component: Designator=X?(2EDGR-5.0-04P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BCPId"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "2EDGRC-5.0-04P-14-00A(H)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymAuthor"; Value = "Юдин"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU/GOST"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Вилка"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=USTRZ Member=Component X? 2EDGRC-5.0-04P-14-00A(H)
