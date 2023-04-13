@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=R1-1
+Removed Pin From Net: NetName=NetR1_2 Pin=R1-2
+Removed Pin From Net: NetName=NetR1_2 Pin=R2-1
+Removed Pin From Net: NetName=IN11 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=X?-1
+Removed Pin From Net: NetName=GND Pin=X?-1
+Removed Pin From Net: NetName=IN11 Pin=X?-1
+Removed Pin From Net: NetName=OUT1 Pin=X?-1
+Removed Pin From Net: NetName=GND Pin=X?-2
+Removed Pin From Net: NetName=GND Pin=X?-2
+Removed Pin From Net: NetName=IN11 Pin=X?-2
+Removed Pin From Net: NetName=OUT1 Pin=X?-2
+Change Component Comment : Designator=C1 Old Comment=0,1 мк New Comment=1000
+Change Component Comment : Designator=R5 Old Comment=2,4 к New Comment=1,2 к
+Change Component Comment : Designator=R4 Old Comment=10 к New Comment=4,7 к
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change component parameters: Designator = "R4"; Footprint = "RESC1608L"; UniqueID = "\DSIJBOEC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BCPId"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ImKey"; Value = "i6124B5A08769800005A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "RC0603F*-**4K7L Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCADLibrary"; Value = "PASSIV.LIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCADPattern"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCADSymbol"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCADType"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RESC1608L"; UniqueID = "\LMSPODHA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BCPId"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ImKey"; Value = "i6124B5A08769800004C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "RC0603F*-**1K2L Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCADLibrary"; Value = "PASSIV.LIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCADPattern"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCADSymbol"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCADType"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1,2 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "CAPC1608L"; UniqueID = "\DLWBTBTH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BCPId"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ImKey"; Value = "i6124B5A08701E000003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "0603 X7R 1000 пФ ±10 % 50 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCADLibrary"; Value = "PASSIV.LIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCADPattern"; Value = "C0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCADSymbol"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCADType"; Value = "C0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power/Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TKE/TKC"; Value = "{TKE/TKC}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=IN11 Pin=R2-2
+Added Pin To Net: NetName=NetC1_2 Pin=X?-1
+Added Pin To Net: NetName=NetC1_2 Pin=X?-1
+Added Pin To Net: NetName=NetC1_2 Pin=X?-1
+Added Pin To Net: NetName=NetC1_2 Pin=X?-1
+Added Pin To Net: NetName=NetC1_2 Pin=X?-2
+Added Pin To Net: NetName=NetC1_2 Pin=X?-2
+Added Pin To Net: NetName=NetC1_2 Pin=X?-2
+Added Pin To Net: NetName=NetC1_2 Pin=X?-2
+Added Member To Class: ClassName=USTRZ Member=Component X? 2edg2
+Added Member To Class: ClassName=USTRZ Member=Component X? 2edg2
+Added Member To Class: ClassName=USTRZ Member=Component X? 2edg2
+Added Room: Name=USTRZ

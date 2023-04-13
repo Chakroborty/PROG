@@ -1,0 +1,12 @@
+Added Component: Designator=X?(TP0.8X1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BCPId"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "СРГ-50-884ФВ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymAuthor"; Value = "Календарова В."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU/GOST"; Value = "ВРО.364.039 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Переход"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=X?-1
+Added Member To Class: ClassName=USTRZ Member=Component X? СРГ-50-884ФВ
+Added Member To Class: ClassName=USTRZ Member=Component X? L712AS
