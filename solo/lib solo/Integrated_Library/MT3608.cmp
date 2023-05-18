@@ -1,0 +1,16 @@
+Component Name : Component_1
+
+Part Count : 2
+
+Part : *
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : *
+     Pins - (Normal) : 4
+          EN             3              Input
+          Vout           5              Power
+          Vin            1              Input
+          GND            2              Power
+          Hidden Pins : 
+
